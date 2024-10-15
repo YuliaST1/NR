@@ -1,0 +1,32 @@
+table {
+   
+   width: 444px; 
+   
+}
+
+td {
+    flex: 1;
+    text-align: center;
+    background-color: #F1F3F4;
+
+ border-radius: 4px;
+ padding: 8px;
+ margin:3px;
+ 
+ 
+}
+.upperRow {
+    background-color: lightgray;
+
+}
+
+tr {
+    display: flex;
+   
+}
+#row0 {
+    text-align: right;
+    border: 1px solid #dadce1;
+    border-radius: 8px;
+    background-color: inherit;
+}
